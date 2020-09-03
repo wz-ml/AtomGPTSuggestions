@@ -24,9 +24,11 @@ Any new text files created in the repo folder will have the autocomplete functio
 
 GPT-2 will often give different suggestions when you put in the same input multiple times. Try it out!
 
+
 ## Backend API
 NotAnAutocompleteAI relies on Huggingface's GPT-2 API to provide suggestions. Direct API link:
 https://transformer.huggingface.co/autocomplete/distilgpt2/medium
+
 
 ## Credit goes to...
 Built on [atom-autocomplete-boilerplate](https://github.com/lonekorean/atom-autocomplete-boilerplate).
