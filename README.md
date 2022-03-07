@@ -1,26 +1,26 @@
-# NotAnAutocompleteAI
-(Not) an autocomplete addon for Atom Editor! Install Atom and `git clone` this repository to get started.
+# AtomGPTSuggestions
+An autocomplete addon for Atom Editor, powered by GPT-2 and HuggingFace's API! Install Atom and `git clone` this repository to get started.
 
 ## Installation
 1. Go to [atom.io](https://atom.io/) and install Atom Editor.
 2. Clone this repository.
 - You can use Github Desktop
 - Alternatively, do 
-`git clone https://github.com/wz-ml/NotAnAutocompleteAI.git`.
+`git clone https://github.com/wz-ml/AtomGPTSuggestions.git`.
 3. Open terminal/command prompt/shell, navigate to the repo directory, and run `apm link`.
 4. Open Atom Editor. After going through setup, you will be able to see a screen like this:
 
-![](https://github.com/wz-ml/NotAnAutocompleteAI/blob/master/example.png?raw=true)
+![](https://github.com/wz-ml/AtomGPTSuggestions/blob/master/example.png?raw=true)
 
 5. Go to File -> Add Project Folder -> Add the repo folder.
 
-![](https://github.com/wz-ml/NotAnAutocompleteAI/blob/master/example2.png?raw=true)
+![](https://github.com/wz-ml/AtomGPTSuggestions/blob/master/example2.png?raw=true)
 
 ## Start editing!
 Go to `mynewfile1.txt` and start editing! You should be able to see autocompletion suggestions after typing a sentence or so.
 Any new text files created in the repo folder will have the autocomplete functionality enabled!
 
-![](https://github.com/wz-ml/NotAnAutocompleteAI/blob/master/example3.png?raw=true)
+![](https://github.com/wz-ml/AtomGPTSuggestions/blob/master/example3.png?raw=true)
 
 GPT-2 will often give different suggestions when you put in the same input multiple times. Try it out!
 
